@@ -12,30 +12,22 @@ This is a React Native application that displays a list of popular movies fetche
 ## Installation
 
 1. **Clone the repository:**
-    git clone https://github.com/yourusername/popular-movies-app.git
+    git clone https://github.com/AdithyaRathnayka/Top-Rated-Movie-App
     cd popular-movies-app
     
 
 2. **Install dependencies:**
-    ```bash
     npm install
-    ```
 
 3. **Link dependencies (if using older versions of React Native):**
-    ```bash
     npx react-native link
-    ```
 
 4. **Start the Metro bundler:**
-    ```bash
     npx react-native start
-    ```
 
 5. **Run the app on an Android or iOS device:**
-    ```bash
     npx react-native run-android  # for Android
     npx react-native run-ios      # for iOS
-    ```
 
 ## Usage
 
@@ -64,6 +56,3 @@ This is a React Native application that displays a list of popular movies fetche
 - [React Navigation](https://reactnavigation.org/)
 - [TMDb API](https://developers.themoviedb.org/3)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
